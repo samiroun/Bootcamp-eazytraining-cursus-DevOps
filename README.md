@@ -13,7 +13,6 @@ And now, even if I still have a lot to learn,
 thanks to this bootcamp I am ready to build, deploy and automate your infrastructure in the cloud.
 
 ## _Bootcamp program :_
----
 __First month__ : Micro-services with Docker 🐋 and Kubernetes
 
 __Second Month__ : Pipeline CI/CD with Jenkins / Gitlab CI
@@ -21,9 +20,7 @@ __Second Month__ : Pipeline CI/CD with Jenkins / Gitlab CI
 __Third Month__ : Automatisation and IaC (Infrastructure as Code) with Ansible ⚙️ and Terraform
 
 ## 🔎 What you'll find here and the purpose of it 🔎
----
 On this repo, all of my exercices and training during the formations will be uploaded. It'll be a way for myself and for other IT colleages, recruiter, companies... to monitor my progression during these few months. It'll also be a good way to build a portfolio, with proof of concept / work of my job and my knowledge.
 
 ## 📇 Contact 📇
----
 If you want to contact me you can send me an email at : srahou@protonmail.com
