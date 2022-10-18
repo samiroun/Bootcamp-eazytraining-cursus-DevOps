@@ -19,6 +19,13 @@ __Second Month__ : Pipeline CI/CD with Jenkins / Gitlab CI
 
 __Third Month__ : Automatisation and IaC (Infrastructure as Code) with Ansible ⚙️ and Terraform
 
+## 📰 Mes futures certifications 📰
+Even if this very large world of DevOps is very rich in techno, here are the particular topics I am interested in and on which I think I will prepare certifications : 
+
+- AWS Cloud 
+- Terraform
+- Kubernetes
+
 ## 🔎 What you'll find here and the purpose of it 🔎
 On this repo, all of my exercices and training during the formations will be uploaded. It'll be a way for myself and for other IT colleages, recruiter, companies... to monitor my progression during these few months. It'll also be a good way to build a portfolio, with proof of concept / work of my job and my knowledge.
 
