@@ -1,10 +1,8 @@
 # ⚡️ Welcome to my proof of work during my 3 months bootcamp from Eazy-Training ⚡️
 ---
----
 ###### This repository is made to track my progress in the eazy-training "cursus-devops" bootcamp. It will include all the work I will do in the next 3 months (September 2022 to end of November 2022) and beyond.
 
 ## 📰 Short introduction 📰
----
 I am in a career transition. During the last 10 years, I have evolved in the field of networks and telecoms. I live in Lille, France 🇫🇷
 
 In July 2022, I asked myself "what do you want to learn every day?".
